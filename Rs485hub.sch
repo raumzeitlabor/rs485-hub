@@ -12630,7 +12630,7 @@ male, 94 pins, type B, rows AB, grid 2.54 mm</description>
 <instance part="C12" gate="G$1" x="269.24" y="91.44"/>
 <instance part="R41" gate="G$1" x="10.16" y="241.3" rot="R90"/>
 <instance part="C13" gate="G$1" x="182.88" y="91.44"/>
-<instance part="STACK" gate="G$1" x="299.72" y="119.38" rot="R270"/>
+<instance part="STACK" gate="G$1" x="299.72" y="116.84" rot="R270"/>
 <instance part="P+5" gate="VCC" x="190.5" y="99.06"/>
 <instance part="GND5" gate="1" x="170.18" y="81.28"/>
 <instance part="POWER" gate="G$1" x="287.02" y="88.9"/>
@@ -12967,7 +12967,7 @@ male, 94 pins, type B, rows AB, grid 2.54 mm</description>
 <wire x1="208.28" y1="86.36" x2="208.28" y2="83.82" width="0.1524" layer="91"/>
 <wire x1="198.12" y1="86.36" x2="198.12" y2="83.82" width="0.1524" layer="91"/>
 <wire x1="182.88" y1="86.36" x2="182.88" y2="83.82" width="0.1524" layer="91"/>
-<wire x1="297.18" y1="111.76" x2="297.18" y2="83.82" width="0.1524" layer="91"/>
+<wire x1="297.18" y1="109.22" x2="297.18" y2="83.82" width="0.1524" layer="91"/>
 <junction x="170.18" y="83.82"/>
 <junction x="182.88" y="83.82"/>
 <junction x="198.12" y="83.82"/>
@@ -13101,7 +13101,7 @@ male, 94 pins, type B, rows AB, grid 2.54 mm</description>
 <wire x1="238.76" y1="93.98" x2="238.76" y2="96.52" width="0.1524" layer="91"/>
 <wire x1="248.92" y1="93.98" x2="248.92" y2="96.52" width="0.1524" layer="91"/>
 <wire x1="259.08" y1="93.98" x2="259.08" y2="96.52" width="0.1524" layer="91"/>
-<wire x1="299.72" y1="111.76" x2="299.72" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="299.72" y1="109.22" x2="299.72" y2="96.52" width="0.1524" layer="91"/>
 <wire x1="274.32" y1="93.98" x2="274.32" y2="96.52" width="0.1524" layer="91"/>
 <junction x="182.88" y="96.52"/>
 <junction x="198.12" y="96.52"/>
@@ -13707,7 +13707,7 @@ male, 94 pins, type B, rows AB, grid 2.54 mm</description>
 </net>
 <net name="DATABUS" class="0">
 <segment>
-<wire x1="302.26" y1="111.76" x2="302.26" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="302.26" y1="109.22" x2="302.26" y2="99.06" width="0.1524" layer="91"/>
 <wire x1="276.86" y1="99.06" x2="302.26" y2="99.06" width="0.1524" layer="91"/>
 <wire x1="276.86" y1="152.4" x2="276.86" y2="99.06" width="0.1524" layer="91"/>
 <wire x1="236.22" y1="203.2" x2="236.22" y2="198.12" width="0.1524" layer="91"/>
